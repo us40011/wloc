@@ -74,4 +74,4 @@ let ze;(async()=>{
       t.error("[wloc] 不合法的 response 类型: "+typeof ze);
       i({});
   }
-});1
+});
