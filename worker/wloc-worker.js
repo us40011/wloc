@@ -211,7 +211,7 @@ body { font-family:-apple-system,system-ui,sans-serif; background:var(--bg); col
 
     <div class="section-title">环境安装</div>
     <div class="row">
-      <button class="btn btn-primary" onclick="copyText('https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.module')">模块安装</button>
+      <button class="btn btn-primary" onclick="copyText('https://raw.githubusercontent.com/us40011/wloc/main/modules/wloc.module')">模块安装</button>
       <a class="btn btn-primary" href="https://www.icloud.com/shortcuts/2a811c3bac0e4694b1875ae45b26ab0d" target="_blank">IOS定位键</a>
       <a class="btn btn-primary" href="https://www.icloud.com/shortcuts/9092b1a576cf4b7c8bc0dd931ba512a6" target="_blank">IOS恢复键</a>
     </div>
