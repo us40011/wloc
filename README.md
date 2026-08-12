@@ -236,15 +236,3 @@ Pages 和 Workers 功能完全一致，按需选择即可。
 </details>
 
 ---
-
-## 法律法规声明：
-- kinshanus作者以下简称本作者
-- APPle无任何授权本作者，仅限于爱好个人研究用途
-- 本作者提供wloc项目只提供用于非中国区用户个人研究
-- 任何单位机构或个人行为与本作者无关，本作者无任何授权
-
-## 致谢以下作者不分先后顺序
-- FFF686868 NSNanoCat Yu9191
-- [proxypin-wloc-spoofer](https://github.com/FFF686868/proxypin-wloc-spoofer) - 原始 WLOC 定位修改思路 by FFF686868
-- [NSNanoCat/Util](https://github.com/NSNanoCat/util) - 跨平台脚本工具框架
-- [Yu9191/wloc](https://github.com/Yu9191/wloc) - 修订
