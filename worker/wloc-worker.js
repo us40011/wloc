@@ -255,7 +255,7 @@ body { font-family:-apple-system,system-ui,sans-serif; background:var(--bg); col
 
   <div class="footer-card">
     <!-- 图标和降级占位块均已调整为 96px 匹配英文版 -->
-    <img class="footer-logo" id="footerLogo" src="https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/wloc.jpg" alt="Logo" onerror="this.onerror=null; this.style.display='none'; document.getElementById('fallbackLogo').style.display='flex';">
+    <img class="footer-logo" id="footerLogo" src="https://raw.githubusercontent.com/us40011/wloc/main/wloc.jpg" alt="Logo" onerror="this.onerror=null; this.style.display='none'; document.getElementById('fallbackLogo').style.display='flex';">
     <div id="fallbackLogo" style="display:none; width:96px; height:96px; border-radius:20px; margin:0 auto 12px auto; background:linear-gradient(135deg, #007aff, #5856d6); box-shadow:0 4px 16px rgba(0, 122, 255, 0.25); align-items:center; justify-content:center;">
       <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="12" cy="12" r="3"></circle>
@@ -264,7 +264,7 @@ body { font-family:-apple-system,system-ui,sans-serif; background:var(--bg); col
     </div>
     <div class="footer-brand" style="font-weight:600;font-size:15px;color:#1c1c1e;margin-bottom:4px">我爱研究 ILovestudy</div>
     <div class="footer-version" style="font-size:12px;color:var(--gray);margin-bottom:14px;font-family:monospace;font-weight:700;">v1.1.9</div>
-    <a class="btn btn-tg" href="https://t.me/+ySKmeLUxaAM5NGFk" target="_blank">✈️ 加入 Telegram 交流群</a>
+    <a class="btn btn-tg" href="https://t.me/VIP111177" target="_blank">Telegram</a>
   </div>
 
   <div class="status" id="status">选好位置后点击「储存到设备」写入代理工具</div>
