@@ -11,19 +11,19 @@
 ## 订阅地址
 
 **Surge:**
-https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.sgmodule
+https://raw.githubusercontent.com/us40011/wloc/refs/heads/main/modules/wloc.sgmodule
 
 **Quantumult X:**
-https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.conf
+https://raw.githubusercontent.com/us40011/wloc/refs/heads/main/modules/wloc.conf
 
 **Loon:**
-https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.lpx
+https://raw.githubusercontent.com/us40011/wloc/refs/heads/main/modules/wloc.lpx
 
 **Stash:**
-https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.stoverride
+https://raw.githubusercontent.com/us40011/wloc/refs/heads/main/modules/wloc.stoverride
 
 **Shadowrocket(小火箭):**
-https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.module
+https://raw.githubusercontent.com/us40011/wloc/refs/heads/main/modules/wloc.module
 
 > Egern 可直接使用 Surge 模块
 > Stash 请直接订阅上面的 `.stoverride`，无需用 Script Hub 转换
@@ -179,7 +179,7 @@ https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.mo
 
 **一键部署（Workers）：**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hankinsus/wloc/tree/main/worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/us40011/wloc/tree/main/worker)
 
 > 一键部署仅支持 Workers 模式，点击按钮后按提示授权即可完成部署。
 
@@ -187,7 +187,7 @@ https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/modules/wloc.mo
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/hankinsus/wloc.git
+git clone https://github.com/us40011/wloc.git
 cd wloc/worker
 
 # 2. 安装依赖
@@ -210,7 +210,7 @@ npm run deploy
 Pages 部署不支持一键按钮，需要手动执行：
 
 ```bash
-git clone https://github.com/hankinsus/wloc.git
+git clone https://github.com/us40011/wloc.git
 cd wloc/worker
 npm install
 npx wrangler pages deploy dist --project-name <自定义项目名>
