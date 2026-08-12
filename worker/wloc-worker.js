@@ -445,7 +445,7 @@ function queryActive() {
         el.textContent = '无已保存的坐标';
       }
     })
-    .catch(() => { el.textContent = '查询失败 (需要代理模块支持)'; });
+    .catch(() => { el.textContent = '查询失败'; });
 }
 function clearActive() {
   if (!confirm('确定清除设备上已保存的坐标？')) return;
