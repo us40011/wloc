@@ -264,7 +264,7 @@ body { font-family:-apple-system,system-ui,sans-serif; background:var(--bg); col
     </div>
     <div class="footer-brand" style="font-weight:600;font-size:15px;color:#1c1c1e;margin-bottom:4px">澳门银河网络科技ILovestudy</div>
     <div class="footer-version" style="font-size:12px;color:var(--gray);margin-bottom:14px;font-family:monospace;font-weight:700;">微信 VIP4001177</div>
-    <a class="btn btn-tg" href="https://t.me/VIP111177" target="_blank">Telegram</a>
+    <a class="btn btn-tg" href="https://t.me/VIP111177" target="_blank">电报 VIP111177</a>
   </div>
 
   <div class="status" id="status">选好位置后点击「储存到设备」写入代理工具</div>
