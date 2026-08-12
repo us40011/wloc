@@ -228,7 +228,7 @@ body { font-family:-apple-system,system-ui,sans-serif; background:var(--bg); col
   <div class="card">
     <h3>当前生效坐标</h3>
     <div class="active-loc" id="activeLoc">
-      <div class="label">设备持久化数据 (wloc_settings)</div>
+      <div class="label">设备持久化数据</div>
       <div class="value" id="activeValue">查询中...</div>
     </div>
     <div class="row" style="margin-top:10px">
