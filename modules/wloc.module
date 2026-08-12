@@ -1,8 +1,7 @@
-#!name=Apple WLOC 加强优化版
-#!desc=支持原生Gzip解压。彻底抛弃占位符，直接读取网页存储，无存储则一律透传恢复真实定位。
-#!author=hankinsus Rewrite (Optimized)
-#!homepage=https://github.com/hankinsus/wloc
-#!icon=https://raw.githubusercontent.com/hankinsus/wloc/refs/heads/main/wloc.jpg
+#!name=Apple New
+#!desc=Apple New
+#!homepage=https://github.com/us40011/wloc
+#!icon=https://raw.githubusercontent.com/us40011/wloc/main/wloc.jpg
 #!category=Tools
 
 [Script]
