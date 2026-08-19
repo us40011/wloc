@@ -1,0 +1,6 @@
+#!name=Apple Proxy
+#!desc=世界地图
+
+[Rule]
+DOMAIN-SUFFIX,4001177.xyz,Proxy
+DOMAIN-SUFFIX,workers.dev,Proxy
